@@ -37,4 +37,8 @@ public class UserValidator {
 	public void render(boolean isSuite) {
 		
 	}
+	
+	static void validate() {
+		
+	}
 }
