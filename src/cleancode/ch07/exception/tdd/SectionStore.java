@@ -5,13 +5,8 @@ import java.io.FileNotFoundException;
 
 public class SectionStore {
 
-	public void retrieveSection(String sectionName) throws FileNotFoundException {
-		try {
-			FileInputStream stream = new FileInputStream(sectionName);
-			// 이하생략
-		} catch (FileNotFoundException e) {
-			throw e;
-		}
+	public void retrieveSection(String sectionName) {
+//		FileInputStream stream = new FileInputStream(sectionName);
 	}
 
 }
