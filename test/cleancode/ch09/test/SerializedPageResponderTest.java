@@ -3,7 +3,7 @@ package cleancode.ch09.test;
 
 public class SerializedPageResponderTest {
 	
-//	/*
+	/*
 	public void testGetPageHieratchyAsXml() throws Exception {
 		crawler.addPage(root, PathParser.parse("PageOne"));
 		crawler.addPage(root, PathParser.parse("PageOne.ChildOne"));

@@ -2,7 +2,7 @@ package cleancode.ch09.test;
 
 public class SerializedPageResponderTestRefactored {
 
-//	/*
+	/*
 	public void testGetPageHierarchyAsXml() throws Exception {
 		makePages("PageOne", "PageOne.ChildOne", "PageTwo");
 		submitRequest("root", "type:pages");
